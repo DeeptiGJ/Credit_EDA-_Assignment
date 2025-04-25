@@ -7,3 +7,6 @@ ii. reducing the amount of loan,
 iii. lending (to risky applicants) at a higher interest rate.
 
 While we attempt to reduce risk of lending to customers who are likely to default, we also try to ensure that good customers do not get rejected.
+
+The dataset for this case study can be downloaded from the following link:
+https://drive.google.com/drive/folders/16RQztUqCfJOlbooHqYlJrp6Q7iL65uZB 
